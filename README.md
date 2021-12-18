@@ -1,9 +1,4 @@
 <!-- Hi -->
-<style type="stylesheet">
-  span{
-    color:blue;
-  }
-</style>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akroms&show_icons=true&count_private=true) -->
 # Hi my name is <br> <span color="red">Yusuf<span>
 
