@@ -3,7 +3,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akroms&show_icons=true&count_private=true) -->
 
 # Hi my name is <br> 
-<span<style color: red>>Yusuf<span>
+<span<style span{color: red}>>Yusuf<span>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Fullstack+Developer;Enthusiastic+IT+Specialist;)
 
