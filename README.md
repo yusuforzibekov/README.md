@@ -1,9 +1,9 @@
 <!-- Hi -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akroms&show_icons=true&count_private=true) -->
-
+<style span{color: red}>
 # Hi my name is <br> 
-<span<style span{color: red}>>Yusuf<span>
+<span>Yusuf<span>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Fullstack+Developer;Enthusiastic+IT+Specialist;)
 
