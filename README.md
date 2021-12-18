@@ -2,6 +2,7 @@
 <style type="stylesheet">
   span{
     text-color:red;
+    font-size:20px;
   }
 </style>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akroms&show_icons=true&count_private=true) -->
