@@ -2,7 +2,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akroms&show_icons=true&count_private=true) -->
 # HI my name is <br> <b>Yusuf<b>
 
-![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Fullstack+Developer;Enthusiastic+IT+Specialist;)
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Fullstack+Developer;Creative+IT+Specialist;)
 
 ## 📫 How to reach me
 
