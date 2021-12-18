@@ -2,7 +2,9 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akroms&show_icons=true&count_private=true) -->
 <style>
-  span{color: red}
+  span{
+    color: red;
+  }
 <style>
 # Hi my name is <br> 
 <span>Yusuf<span>
