@@ -1,12 +1,11 @@
 <!-- Hi -->
 <style type="stylesheet">
   span{
-    text-color:red;
-    font-size:20px;
+    color:blue;
   }
 </style>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akroms&show_icons=true&count_private=true) -->
-# Hi my name is <br> <span>Yusuf<span>
+# Hi my name is <br> <span color="red">Yusuf<span>
 
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Fullstack+Developer;Enthusiastic+IT+Specialist;)
 
