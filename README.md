@@ -10,8 +10,8 @@ You can find and get touch with me on these accounts 👀
 
 [![LinkedIn Badge](https://img.shields.io/badge/Yusuf-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yusufbek-orzibekov-aba5021a7/)
 
-[![Twitter Badge](https://img.shields.io/badge/Yusuf-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yusuf_orzibekov)
+[![Twitter Badge](https://img.shields.io/badge/Yusuf-follow%20on%20twitter-blue?style=for-the-badge&logo=instagram)](https://twitter.com/yusuf_orzibekov)
   
-[![Instagram Badge](https://img.shields.io/badge/Yusuf-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://www.instagram.com/yusuf_orzibekov/)
+[![Instagram Badge](https://www.instagram.com/yusuf_orzibekov//badge/Yusuf-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://www.instagram.com/yusuf_orzibekov/)
 
 ![Profile views](https://gpvc.arturio.dev/yusuforzibekov)
