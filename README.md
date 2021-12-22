@@ -1,6 +1,6 @@
 <!-- Hi -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=akroms&show_icons=true&count_private=true) -->
-<p>Hi my name is <b>Yusuf<b></p>
+# Hi my name is <b>Yusuf<b>
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Fullstack+Developer;Creative+IT+Specialist;)
 
 ## 📫 How to reach me
