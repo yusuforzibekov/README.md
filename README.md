@@ -12,6 +12,6 @@ You can find and get touch with me on these accounts 👀
 
 [![Twitter Badge](https://img.shields.io/badge/Yusuf-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yusuf_orzibekov)
   
-[![Instagram Badge](https://www.instagram.com/yusuf_orzibekov//badge/Yusuf-follow%20on%20twitter-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/yusuf_orzibekov/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yusuf_orzibekov/)
 
 ![Profile views](https://gpvc.arturio.dev/yusuforzibekov)
