@@ -17,4 +17,6 @@ You can find and get touch with me on these accounts 👀
   
 [![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yusuforzibekov)
 
+[![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/yusuf_orzibekov/_saved/)
+
 ![Profile views](https://gpvc.arturio.dev/yusuforzibekov)
