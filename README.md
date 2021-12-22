@@ -14,5 +14,7 @@ You can find and get touch with me on these accounts 👀
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yusuf_orzibekov/)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YusufbekOrzibekov/)
+  
+[![Codepen Badge](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yusuforzibekov)
 
 ![Profile views](https://gpvc.arturio.dev/yusuforzibekov)
