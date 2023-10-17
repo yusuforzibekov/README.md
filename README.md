@@ -19,4 +19,4 @@ You can find and get touch with me on these accounts 👀
 
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/orzibekovyusufbek/)
 
-![Profile views](https://komarev.com/ghpvc/?username=yusuforzibekov&color=lime)
+![Profile views](https://komarev.com/ghpvc/?username=yusuforzibekov&color=blue)
